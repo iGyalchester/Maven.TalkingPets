@@ -5,7 +5,7 @@ public class CreatePet extends Pet{
 
         super(Kind, name);
         
-        this.Speak = "Woof Woof";
+        this.Speak = "Placeholder";
 
     }
 
